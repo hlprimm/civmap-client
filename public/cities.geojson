@@ -1380,6 +1380,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13605,
+          3975
+        ]
+      },
+      "properties": {
+        "name": "Catalonia",
+        "type": "town",
+        "code": "CAT",
+        "abandoned": false,
+        "flag": "http://i.imgur.com/iXiBe0s.png",
+        "reddit": "r/LibSocMC_Talk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7814,
           -3506
         ]
@@ -1969,7 +1987,7 @@
         "name": "Holy Tree",
         "code": "HT",
         "reddit": "r/theholytree",
-        "abandoned": true,
+        "abandoned": false,
         "type": "city"
       }
     },
@@ -2699,6 +2717,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -11455,
+          -5217
+        ]
+      },
+      "properties": {
+        "name": "Oventic",
+        "code": "Ov",
+        "reddit": "r/CivcraftEZLN",
+        "flag": "http://i.imgur.com/PsO1UIE.png",
+        "abandoned": false,
+        "type": "town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10750,
+          -3832
+        ]
+      },
+      "properties": {
+        "name": "Palusgrad",
+        "code": "Pg",
+        "abandoned": false,
+        "type": "town",
+        "flag": "http://i.imgur.com/tzv3L3H.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0,
           6011
         ]
@@ -3212,6 +3265,26 @@
         "reddit": "r/luvsjak",
         "abandoned": false,
         "type": "town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8242,
+          4115
+        ]
+      },
+      "properties": {
+        "name": "Thule",
+        "code": "TH",
+        "reddit": "r/CivThule",
+        "abandoned": false,
+        "type": "city",
+        "nether": {
+          "public": false
+        }
       }
     },
     {
